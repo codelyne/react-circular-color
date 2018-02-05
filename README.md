@@ -51,3 +51,10 @@ npm install
 npm start
 ```
 
+# Test
+
+To run test type:
+
+```bash
+npm run test
+```
